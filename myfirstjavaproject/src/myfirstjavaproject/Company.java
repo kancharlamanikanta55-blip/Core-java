@@ -24,6 +24,7 @@ public class Company {
 		System.out.println("MonthlyGst: " + monthlyGst);
 		
 		
+		
 	}
 	
 	void calculateMonthlySalary() {
@@ -81,3 +82,9 @@ public class Company {
 	}
 
 }
+
+
+
+
+
+        
